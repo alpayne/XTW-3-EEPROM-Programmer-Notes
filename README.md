@@ -1,4 +1,4 @@
-# XTW-3-EEPROM-Programmer-Notes
+# XTW-3 FLASH/EEPROM Programmer Notes
 
 The XTW-3 is an inexpensive SPI FLASH and EEPROM programmer.
 
